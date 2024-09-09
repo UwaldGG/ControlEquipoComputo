@@ -11,7 +11,7 @@ import frames.FrmEquipos;
 public class ControlEquipos {
     
         public static void main(String[] args) {
-        // TODO code application logic here
+
         FrmEquipos Equipos=new FrmEquipos();
         Equipos.setVisible(true);
     }
